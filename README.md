@@ -5,18 +5,21 @@
 - 👋 Hello! I'm **Oliver**. Wonderful to have you here
 - 🚀 I'm passionate about learning technology and finding creative solutions
 - 🧩 Currently focusing on postgraduate studies and AWS solutions
+- 🧩 Exploring AI Agents, AWS Solutions Architecture, and ETL data pipelines
+- 🌏 I also greatly enjoy filmmaking, exploring the world, and seeking new adventures
 
 ### Contact Me:
 - 📬 Email me at obj809@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/obj809/)
 - ✨ Browse my [portfolio](https://cyberforge1.github.io/portfolio-project) for a showcase of my recent projects
-
+- 💬 Feel free reach out if you want to chat tech, collaborate on a project, or share ideas
+<!-- 
 ### Technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,django,js,ts,react,nodejs,express,nest,java,spring)](https://skillicons.dev)
 
 ### Data & Cloud:
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,terraform,docker,mongodb,firebase,postgres,mysql,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,terraform,docker,mongodb,firebase,postgres,mysql,aws)](https://skillicons.dev) -->
 
 <!---
 cyberforge1/cyberforge1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
