@@ -1,12 +1,13 @@
-# Welcome to My GitHub! 💫
+## Welcome to My GitHub! 💫
 
-### Introduction:
+#### Introduction:
 
 - 👋 Hello! I'm **Oliver**. Wonderful to have you here
 - 🚀 I'm passionate about learning technology and finding creative solutions
-- 🧩 Recently focused on AWS Architecture, and AI context management
+- 🧩 Recently focused on AWS Architecture and AI context management
+- 🌏 I also enjoy filmmaking and adventuring
 
-### Contact Me:
+#### Contact Me:
 - 📬 Email me at obj809@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/obj809/)
 - ✨ Browse my [portfolio](https://cyberforge1.github.io/portfolio-project) for a showcase of my recent projects
 - 💬 Feel free reach out if you want to chat tech, collaborate on a project, or share ideas
