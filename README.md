@@ -2,10 +2,9 @@
 
 #### Introduction:
 
-- 👋 Hello! I'm **Oliver**. Wonderful to have you here
+- 👋 Hello! I'm **Oliver**. Wonderful to have you here!
 - 🚀 I'm passionate about learning technology and finding creative solutions
 - 🧩 Recently focused on AWS Architecture and AI context management
-- 🌏 I also enjoy filmmaking and adventuring
 
 #### Contact Me:
 - 📬 Email me at obj809@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/obj809/)
