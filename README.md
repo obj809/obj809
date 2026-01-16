@@ -7,7 +7,7 @@
 - 🧩 Recently focused on AWS Architecture and AI context management
 
 #### Contact Me:
-- ✨ Browse my [portfolio](https://cyberforge1.github.io/portfolio-project) for a showcase of my recent projects
+- ✨ Browse my [portfolio](https://cyberforge1.github.io/portfolio-project) for a showcase of recent projects
 - 💬 Feel free reach out if you want to chat tech, collaborate on a project, or share ideas
 <!-- 
 ### Technologies:
