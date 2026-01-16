@@ -4,9 +4,7 @@
 
 - 👋 Hello! I'm **Oliver**. Wonderful to have you here
 - 🚀 I'm passionate about learning technology and finding creative solutions
-- 🧩 Currently focusing on postgraduate studies and AWS solutions
-- 🧩 Exploring AI Agents, AWS Solutions Architecture, and ETL data pipelines
-- 🌏 I also greatly enjoy filmmaking, exploring the world, and seeking new adventures
+- 🧩 Recently focused on AWS Architecture, and AI context management
 
 ### Contact Me:
 - 📬 Email me at obj809@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/obj809/)
