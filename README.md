@@ -3,11 +3,11 @@
 ### Introduction:
 
 - 👋 Hello! I'm **Oliver**. Wonderful to have you here!
-- 🚀 I'm passionate about learning technology and finding creative solutions
+- 🚀 I’m passionate about environmental science and modern software technologies
 - 🧩 Currently exploring on AWS Solutions Architecture, end-to-end data engineering, and applied AI systems.
 
 ### Contact Me:
-- ✨ Browse my [portfolio](https://cyberforge1.github.io/portfolio-project) for a showcase of recent projects
+- ✨ Browse my [portfolio](https://oliverjenkins.com.au/) for a showcase of recent projects
 - 💬 Feel free reach out if you want to chat tech, collaborate on a project, or share ideas
 
 ### Technologies:
