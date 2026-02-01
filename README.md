@@ -12,11 +12,7 @@
 
 ### Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,js,ts,react,nodejs,express)](https://skillicons.dev)
-
-### Data & Cloud:
-
-[![My Skills](https://skillicons.dev/icons?i=anaconda,terraform,docker,postgres,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,js,ts,react,express,terraform,docker,postgres,aws)](https://skillicons.dev)
 
 <!-- ### Technologies:
 
