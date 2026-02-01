@@ -12,6 +12,7 @@
 
 ### Technologies:
 
+
 [![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,ts,react,terraform,docker,postgres,aws)](https://skillicons.dev)
 
 <!-- ### Technologies:
