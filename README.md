@@ -3,8 +3,8 @@
 ### Introduction:
 
 - 👋 Hello! I'm **Oliver**. Wonderful to have you here!
-- 🌏 I’m passionate about environmental science and modern software technologies
-- 🧩 Currently exploring on AWS Solutions Architecture, end-to-end data engineering, and applied AI systems.
+- 🧩 I’m passionate about environmental science and modern software technologies
+- 🚀 Currently exploring on AWS Solutions Architecture, end-to-end data engineering, and applied AI systems.
 
 ### Contact Me:
 - ✨ Browse my [portfolio](https://oliverjenkins.com.au/) for a showcase of recent projects
