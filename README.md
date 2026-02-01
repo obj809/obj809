@@ -3,7 +3,7 @@
 ### Introduction:
 
 - 👋 Hello! I'm **Oliver**. Wonderful to have you here!
-- 🧩 I’m passionate about modern software technologies and environmental science
+- 🧩 I’m passionate about modern software technologies and natural science
 - 🚀 Currently exploring on AWS Solutions Architecture, end-to-end data engineering, and applied AI systems.
 
 ### Contact Me:
