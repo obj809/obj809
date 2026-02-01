@@ -9,24 +9,19 @@
 #### Contact Me:
 - ✨ Browse my [portfolio](https://cyberforge1.github.io/portfolio-project) for a showcase of recent projects
 - 💬 Feel free reach out if you want to chat tech, collaborate on a project, or share ideas
-<!-- 
+
 ### Technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,django,js,ts,react,nodejs,express,nest,java,spring)](https://skillicons.dev)
 
 ### Data & Cloud:
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,terraform,docker,mongodb,firebase,postgres,mysql,aws)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=anaconda,terraform,docker,mongodb,firebase,postgres,mysql,aws)](https://skillicons.dev)
 
 <!---
 cyberforge1/cyberforge1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!---
-- 🧩 Additional interests include: Midjourney Image Generation, Social Media Data and ChatGPT Assistants
-- 📚 Based in Sydney and partnered with the _nology Program
-- 🧩 Currently focusing on postgraduate studies and earning AWS certifications
 
---->
 
 
