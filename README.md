@@ -4,7 +4,7 @@
 
 - 👋 Hello! I'm **Oliver**. Wonderful to have you here!
 - 🚀 I'm passionate about learning technology and finding creative solutions
-- 🧩 Currently focused on AWS Solutions Architecture, end-to-end data engineering, and applied AI systems.
+- 🧩 Currently exploring on AWS Solutions Architecture, end-to-end data engineering, and applied AI systems.
 
 #### Contact Me:
 - ✨ Browse my [portfolio](https://cyberforge1.github.io/portfolio-project) for a showcase of recent projects
