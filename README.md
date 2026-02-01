@@ -1,16 +1,16 @@
 ## Welcome to My GitHub! 💫
 
-#### Introduction:
+### Introduction:
 
 - 👋 Hello! I'm **Oliver**. Wonderful to have you here!
 - 🚀 I'm passionate about learning technology and finding creative solutions
 - 🧩 Currently exploring on AWS Solutions Architecture, end-to-end data engineering, and applied AI systems.
 
-#### Contact Me:
+### Contact Me:
 - ✨ Browse my [portfolio](https://cyberforge1.github.io/portfolio-project) for a showcase of recent projects
 - 💬 Feel free reach out if you want to chat tech, collaborate on a project, or share ideas
 
-#### Technologies:
+### Technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,ts,react,terraform,docker,postgres,aws)](https://skillicons.dev)
 
