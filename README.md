@@ -10,7 +10,7 @@
 - ✨ Browse my [portfolio](https://cyberforge1.github.io/portfolio-project) for a showcase of recent projects
 - 💬 Feel free reach out if you want to chat tech, collaborate on a project, or share ideas
 
-### Technologies:
+#### Technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,ts,react,terraform,docker,postgres,aws)](https://skillicons.dev)
 
