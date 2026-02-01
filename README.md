@@ -8,7 +8,7 @@
 
 ### Contact Me:
 - ✨ Browse my [portfolio](https://oliverjenkins.com.au/) for a showcase of recent projects
-- 💬 Feel free reach out if you'd like to chat, collaborate on a project, or share ideas
+- 💬 Feel free reach out if you would like to chat, collaborate on a project, or share ideas
 
 ### Technologies:
 
