@@ -4,7 +4,7 @@
 
 - 👋 Hello! I'm **Oliver**. Wonderful to have you here!
 - 🌏 I’m passionate about the natural world and modern software technologies
-- 🧩 Currently exploring AWS Solutions Architecture, end-to-end data engineering, and applied AI systems
+- 🧩 Currently exploring AWS solutions architecture, end-to-end data engineering, and applied AI systems
 
 ### Contact Me:
 - ✨ Browse my [portfolio](https://oliverjenkins.com.au/) for a showcase of recent projects
