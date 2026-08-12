@@ -7,7 +7,7 @@
 - 🧩 Currently exploring AWS solutions architecture, end-to-end data engineering, and applied AI systems
 
 ### Contact Me:
-- ✨ Browse my [portfolio](https://oliverjenkins.com.au/) for a showcase of recent projects
+- ✨ Browse my [portfolio](https://obj809.com.au/) for a showcase of recent projects
 - 💬 Feel free to reach out if you'd like to chat, collaborate on a project, or share ideas
 
 ### Technologies:
